@@ -1,2 +1,3 @@
 # VR-for-Seniors
-Class materials for teaching Virtual Reality and Augmented Reality to senior citizens
+
+Materials for demonstrating or teaching Virtual Reality and Augmented Reality to senior citizens
