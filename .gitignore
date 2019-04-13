@@ -1,6 +1,9 @@
 ## Ignore Visual Studio temporary files and solution file
 ##
 
+# Source Images
+.SourceImages/
+
 # User-specific files
 *.suo
 *.user
