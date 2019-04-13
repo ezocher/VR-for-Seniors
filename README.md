@@ -2,7 +2,7 @@
 
 Materials for demonstrating or teaching Virtual Reality and/or Augmented Reality to senior citizens
 
-![Anonymized woman playing Beat Saber while a friend watches](Images/anon-woman-playing-beat-saber.jpg)
+
 ## Origin of the Materials
 I am teaching a [hands-on introductory class](https://www.campusce.net/bc/course/course.aspx?C=15333&pc=1998&mc=&sc=) in Virtual Reality and Augmented Reality in the [Bellevue College TELOS program](https://www.bellevuecollege.edu/ce/retiree-programs/). TELOS is a program targeted at retirees, and my students have ranged from about 55 to about 85 years of age.
 
@@ -25,7 +25,8 @@ If you plan to try a buddy system it's necessary to clearly explain the responsi
 
 
 
-## Safety and Comfort ![Oculus store product page with Comfortable rating highlighted](Images/comfortable-rating.png)
+## Safety and Comfort 
+![Oculus store product page with Comfortable rating highlighted](Images/comfortable-rating.png)
 TBD.
 
 
