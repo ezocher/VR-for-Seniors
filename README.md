@@ -4,12 +4,14 @@ Materials for demonstrating or teaching Virtual Reality and/or Augmented Reality
 
 ![Anonymized woman playing Beat Saber while a friend watches](Images/anon-woman-playing-beat-saber.jpg)
 ## Origin of the Materials
-I am teaching a [hands-on introductory class](https://www.campusce.net/bc/course/course.aspx?C=15333&pc=1998&mc=&sc=) in Virtual Reality and Augmented Reality in the [Bellevue College TELOS program](https://www.bellevuecollege.edu/ce/retiree-programs/). TELOS is a program targeted at retirees, and my students have ranged from about 55 to about 85 years old.
+I am teaching a [hands-on introductory class](https://www.campusce.net/bc/course/course.aspx?C=15333&pc=1998&mc=&sc=) in Virtual Reality and Augmented Reality in the [Bellevue College TELOS program](https://www.bellevuecollege.edu/ce/retiree-programs/). TELOS is a program targeted at retirees, and my students have ranged from about 55 to about 85 years of age.
 
 The three classes I have taught so far have gone very well and the students have enjoyed themselves, learned a lot, impressed their grandchildren, and made new friends.
 
-I am sharing the class materials I have created to help other people who are developing VR programs or VR classes for independent seniors or senior living residents.
+I am sharing the class materials I have created to help other people who are developing VR experiences or VR classes for independent seniors or senior living residents.
 
+## Materials Overview
+  * **Documents-for-students/Class-Handout-1** -- This is the first-day handout that I print and give to the students. It has an overview of the course, shows the headsets and apps used in class, and has a page of links and book recommendations.
 ## Approach of the Class
 TELOS classes are informal but have deep content (e.g. Environmental Law is taught by a former EPA lawyer), so I have tried to give students a broad overview of the current state of VR and AR and I have them experience a full sample of the current range of mainstream headsets and apps. The class also covers a little bit of technology and terminology.
 
@@ -21,9 +23,9 @@ If you don't have assistants or docents available and you're teaching a class, I
 
 If you plan to try a buddy system it's necessary to clearly explain the responsibilites and importance to the students and to remind them in each class. The slides I used for this are here (TBD).
 
-![Oculus store product page with Comfortable rating highlighted](Images/comfortable-rating.png)
 
-## Safety and Comfort
+
+## Safety and Comfort ![Oculus store product page with Comfortable rating highlighted](Images/comfortable-rating.png)
 TBD.
 
 
