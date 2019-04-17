@@ -35,9 +35,9 @@ TBD.
 The materials shared here are for a six hour class (4 meetings of 1 1/2 hours) where I spend 2 hours on lectures and 4 hours with the students using VR/AR. About 1/2 hour of the lecture material focuses on logistics and safety (e.g. the Buddy System) and I have pulled it out into a seperate presentation (TBD).
 
 ### For VR Exposure/Experience Programs
-I have had the most success (and users have had the most enjoyment) across all age groups and technical abilities with the Oculus Go. Having a single controller is easier for beginning users and being seated is for their first VR experiences is a good idea for all age groups.
+I have had the most success (and users have had the most enjoyment) across all age groups and technical abilities with the Oculus Go. Having a single controller is easier for beginning users and being seated for their first VR experiences is a good idea for all age groups.
 
-If your objective is just to expose seniors to the joy of VR and/or have them engage in one or two specific experiences, then I strongly recommend focusing on the Oculus Go.
+If your objective is just to expose seniors to the joy and wonder of VR and/or have them engage in one or two specific experiences, then I strongly recommend focusing on the Oculus Go.
 
 ## Contact
-If you are teaching or demonstrating VR to seniors and have questions you can contact me at zocherclass![at sign](Images/at-sign.png)gmail.com.
+If you are teaching or demonstrating VR to seniors and have questions or want to compare notes, you can contact me at zocherclass![at sign](Images/at-sign.png)gmail.com.
