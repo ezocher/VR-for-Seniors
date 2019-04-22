@@ -12,6 +12,9 @@ I am sharing the class materials I have created to help other people who are dev
 
 ## Materials Overview
   * **Documents-for-students/Class-Handout-1** -- This is the first-day handout that I print and give to the students. It has an overview of the course, shows the headsets and apps used in class, and has a page of links and book recommendations.
+
+#### I will be uploading more materials including lecture slides, device reference cards, and application reference cards after I have reviewed and modified them to insure they contain no copyrighted images.
+#### Contact me at zocherclass![at sign](Images/at-sign.png)gmail.com if you have questions or if you need access to these materials now.
 ## Approach of the Class
 TELOS classes are informal but have deep content (e.g. Environmental Law is taught by a former EPA lawyer), so I have tried to give students a broad overview of the current state of VR and AR and I have them experience a full sample of the current range of mainstream headsets and apps. The class also covers a little bit of technology and terminology.
 
