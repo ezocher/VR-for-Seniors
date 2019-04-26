@@ -58,4 +58,5 @@ I have had the most success (and users have had the most enjoyment) across all a
 If your objective is just to expose seniors to the joy and wonder of VR and/or have them engage in one or two specific experiences, then I strongly recommend focusing on the Oculus Go.
 
 ## Contact
-If you are teaching or demonstrating VR to seniors and have questions or want to compare notes, you can contact me at zocherclass![at sign](Images/at-sign.png)gmail.com.
+If you are teaching or demonstrating VR to seniors and have questions or want to compare notes feel free to contact me:
+**Eric Zocher -- zocherclass![at sign](Images/at-sign.png)gmail.com.**
