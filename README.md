@@ -31,7 +31,8 @@ If you plan to try a buddy system it's necessary to clearly explain the responsi
 
 ## Comfort 
 ![Oculus store product page with Comfortable rating highlighted](Images/comfortable-rating.png)
-The apps I selected for class minimize forward motion and the rated ones are all rated "Comfortable." So far students have had very few issues in my classes with no one experiencing motion sickness.
+
+The apps I selected for class minimize forward motion and the rated ones are all rated "Comfortable." So far students have had very few issues in my classes, with no one experiencing motion sickness.
 
 A few people have had balance reactions to the flying in Google Earth VR on the HTC Vive, but they've all slowed down and kept using it.
 
