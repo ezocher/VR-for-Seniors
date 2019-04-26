@@ -59,4 +59,5 @@ If your objective is just to expose seniors to the joy and wonder of VR and/or h
 
 ## Contact
 If you are teaching or demonstrating VR to seniors and have questions or want to compare notes feel free to contact me:
-**Eric Zocher -- zocherclass![at sign](Images/at-sign.png)gmail.com.**
+
+**Eric Zocher** -- email: **zocherclass![at sign](Images/at-sign.png)gmail.com.**
