@@ -13,9 +13,9 @@ I am sharing the class materials I have created to help other people who are dev
 ## Materials Overview
   * **Documents-for-students/Class-Handout-1** -- This is the first-day handout that I print and give to the students. It has an overview of the course, shows the headsets and apps used in class, and has a page of links and book recommendations.
 * **Reference-cards/Oculus Go Cards** -- These are two cards that help beginners get started with the Oculus Go. The first page shows the basics of the Go hardware and pages 2 and 3 are for their partner to help them find their way through the apps: Spinplay, Art Plunge, and Wander. I print these on cardstock with page 1 on one card and pages 2 and 3 on both sides of the second card.
+* **Reference-cards/iPad AR Cards** -- These cards explain how to use a selection of Augmented Reality applications on the iPad. Also included are two "target cards" to point at with the camera when using Blippar and Google Translate in AR mode. *I use the iPad to demonstrate Augmented Reality in class because it's easier to use and to see than a phone would be for the two person teams.*
 
-#### I will be uploading more materials including lecture slides and more device and app reference cards after I have reviewed and modified them to insure they contain no copyrighted images.
-#### Contact me at zocherclass![at sign](Images/at-sign.png)gmail.com if you have questions or if you need access to these materials now.
+> **I will be uploading more materials including lecture slides and more device and app reference cards after I have reviewed and modified them to ensure they contain no copyrighted images. Contact me at zocherclass![at sign](Images/at-sign.png)gmail.com if you have questions or if you need access to these materials now.**
 ## Approach of the Class
 TELOS classes are informal but have deep content (e.g. Environmental Law is taught by a former EPA lawyer), so I have tried to give students a broad overview of the current state of VR and AR and have them experience a full sample of the current range of mainstream headsets and different kinds of available apps. The class also covers a little bit of technology and terminology.
 
