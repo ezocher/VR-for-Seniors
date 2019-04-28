@@ -11,11 +11,14 @@ The three classes I have taught so far have gone very well and the students have
 I am sharing the class materials I have created to help other people who are developing VR experiences or VR classes for independent seniors or senior living residents.
 
 ## Materials Overview
-  * **Documents-for-students/Class-Handout-1** -- This is the first-day handout that I print and give to the students. It has an overview of the course, shows the headsets and apps used in class, and has a page of links and book recommendations.
-* **Reference-cards/Oculus Go Cards** -- These are two cards that help beginners get started with the Oculus Go. The first page shows the basics of the Go hardware and pages 2 and 3 are for their partner to help them find their way through the apps: Spinplay, Art Plunge, and Wander. I print these on cardstock with page 1 on one card and pages 2 and 3 on both sides of the second card.
-* **Reference-cards/iPad AR Cards** -- These cards explain how to use a selection of Augmented Reality applications on the iPad. Also included are two "target cards" to point at with the camera when using Blippar and Google Translate in AR mode. *I use the iPad to demonstrate Augmented Reality in class because it's easier to use and to see than a phone would be for the two person teams.*
+> Materials are posted in PDF format with the original Word or PowerPoint files in the same folders
+* **[Documents-for-students/Class-Handout-1](Documents-for-students/Class-Handout-1.pdf)** -- This is the first-day handout that I print and give to the students. It has an overview of the course, shows the headsets and apps used in class, and has a page of links and book recommendations.
+* **[Reference-cards/Oculus-Go-Cards](Reference-cards/Oculus-Go-Cards.pdf)** -- These are two cards that help beginners get started with the Oculus Go. The first page shows the basics of the Go hardware and pages 2 and 3 are for their partner to help them find their way through the apps: Spinplay, Art Plunge, and Wander. I print these on cardstock with page 1 on one card and pages 2 and 3 on both sides of the second card.
+* **[Reference-cards/iPad-AR-Cards](Reference-cards/iPad-AR-Cards.pdf)** -- These cards explain how to use a selection of Augmented Reality applications on the iPad. Also included are two "target cards" to point at with the camera when using Blippar and Google Translate in AR mode.
+> I use the iPad to demonstrate Augmented Reality in class because it's easier to use and to see than a phone would be for the two person teams.
+* **[Lecture-presentations/Buddy-system-safety-comfort](Lecture-presentations/Buddy-system-safety-comfort.pdf)** -- These are the slides I use to introduce the Buddy System (see below) that I use in class and a discussion about safety and comfort.
 
-> **I will be uploading more materials including lecture slides and more device and app reference cards after I have reviewed and modified them to ensure they contain no copyrighted images. Contact me at zocherclass![at sign](Images/at-sign.png)gmail.com if you have questions or if you need access to these materials now.**
+> **I will be uploading more materials including more lecture slides and more device and app reference cards after I have reviewed and modified them to ensure they contain no copyrighted images. Contact me at zocherclass![at sign](Images/at-sign.png)gmail.com if you have questions or if you need access to these materials now.**
 ## Approach of the Class
 TELOS classes are informal but have deep content (e.g. Environmental Law is taught by a former EPA lawyer), so I have tried to give students a broad overview of the current state of VR and AR and have them experience a full sample of the current range of mainstream headsets and different kinds of available apps. The class also covers a little bit of technology and terminology.
 
@@ -25,7 +28,7 @@ It is important for VR beginners to be assisted and monitored while using VR. Th
 ## Buddy System
 If you don't have assistants or docents available and you're teaching a class, I recommend pairing up your students into teams of two for the duration of your class. I have used this approach in my classes, which I call the buddy system, and it has been very successful. The intensive student-to-student interaction required has also led to a strong sense of community/co-learning in my classes.
 
-If you plan to try a buddy system it's necessary to clearly explain the responsibilites and importance to the students and to remind them in each class. The slides I used for this are here (TBD).
+If you plan to try a buddy system it's necessary to clearly explain the responsibilites and importance to the students and to remind them in each class. The [slides I use for this are here](Lecture-presentations/Buddy-system-safety-comfort.pdf).
 
 
 
@@ -50,7 +53,7 @@ The classrooms I've used have standard student chairs with a back rest and have 
 
 ## Recommendations
 ### For VR / AR Classes
-The materials shared here are for a six hour class (4 meetings of 1 1/2 hours) where I spend 2 hours on lectures and 4 hours with the students using VR/AR. About 1/2 hour of the lecture material focuses on logistics and safety (e.g. the Buddy System) and I have pulled it out into a seperate presentation (TBD).
+The materials shared here are for a six hour class (4 meetings of 1 1/2 hours) where I spend 2 hours on lectures and 4 hours with the students using VR/AR. About 1/2 hour of the lecture material focuses on logistics and safety (e.g. the Buddy System) and I have pulled it out into a seperate presentation ([here](Lecture-presentations/Buddy-system-safety-comfort.pdf)).
 
 ### For VR Exposure/Experience Programs
 I have had the most success (and users have had the most enjoyment) across all age groups and technical abilities with the Oculus Go. Having a single controller is easier for beginning users and being seated for their first VR experiences is a comfortable way to start for all age groups.
